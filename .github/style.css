@@ -1,0 +1,17 @@
+body{
+    background-color: palevioletred;
+  color: antiquewhite;
+  font: bolder;   
+}
+h1{
+    color: black;
+}
+.main-header{
+    color: black;
+}
+#id{
+    color: black;
+}
+h2{
+    color:aliceblue;
+}
